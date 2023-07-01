@@ -1,2 +1,2 @@
 # Bankers-Algorithm
-this algorithm is used to avoid deadlock.
+Banker's algorithm is used to avoid deadlock.
